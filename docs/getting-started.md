@@ -189,7 +189,7 @@ The right-hand panel controls the spectrogram's properties:
 
 ## Getting Help
 
-- **Report bugs**: Help > Report a Bug, or visit [GitHub Issues](https://github.com/daveronan/phosphor/issues)
-- **Suggest features**: Help > Suggest a Feature, or visit [GitHub Discussions](https://github.com/daveronan/phosphor/discussions)
-- **Join the community**: [Discord](https://discord.gg/DpfwGsaVvZ) or Help > Join Discord
-- **Website**: [daveronan.com/phosphor](https://www.daveronan.com/phosphor)
+- **Report bugs**: Help > Report a Bug, or visit [GitHub Issues](https://github.com/roex-audio/phosphor/issues)
+- **Suggest features**: Help > Suggest a Feature, or visit [GitHub Discussions](https://github.com/roex-audio/phosphor/discussions)
+- **Join the community**: [Discord](https://discord.gg/k5ky5apBrd) or Help > Join Discord
+- **Website**: [roexaudio.com/phosphor](https://www.roexaudio.com/phosphor)
